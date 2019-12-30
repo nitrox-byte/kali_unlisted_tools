@@ -6,12 +6,12 @@ Instructions:
 
 >cd /
 
->mkdir 'Figlet & Toilet installer'
+>mkdir Parser
 
->cd 'Figlet & Toilet installer'
+>cd Parser
 
->wget https://raw.githubusercontent.com/nitrox-byte/kali_unlisted_tools/master/figlet%20%26%20toilet/install.sh
+>wget https://raw.githubusercontent.com/nitrox-byte/kali_unlisted_tools/master/parser_nmap_v2/parser_nmap_v2_by_nitrox.py
 
->sudo chmod +x install.sh
+>sudo chmod +x parser_nmap_v2_by_nitrox.py
 
->sudo bash install.sh
+>sudo python parser_nmap_v2_by_nitrox.py
